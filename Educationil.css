@@ -1,0 +1,286 @@
+body{
+    background-color: white;
+}
+
+.home-start1{
+    display: flex;
+}
+
+#name{
+    margin-left: 100px;
+    font-size: x-large;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.starters{
+    display: flex;
+}
+
+#home{
+    margin-top: 5px;
+    margin-left: 250px;
+}
+
+#about{
+    margin-top: 5px;
+    margin-left: 20px;
+    color: red;
+}
+
+#period1{
+    margin-top: 1px;
+    margin-left: 2.5px;
+    font-size: large;
+}
+
+
+.home-start2{
+    display: flex;
+    background-color: rgb(247, 202, 6);
+    height: 200px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#word1{
+    /* margin-top: 70px; */
+    color: navy;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#word2{
+    display: flex;
+}
+
+#home2{
+    
+    margin-right: 5px; 
+}
+
+
+.point{
+     margin-top: -5px;
+    margin-right: 5px;
+    font-size: large; 
+}
+
+.point2{
+    margin-top: -0.05px;
+   margin-right: 5px;
+   font-size: large; 
+}
+
+
+
+
+#courses{
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+#period2{
+    margin-top: 1px;
+    margin-left: 2.5px;
+    font-size: large;
+}
+
+
+#pages{
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+#period3{
+    margin-top: 1px;
+    margin-left: 2.5px;
+    font-size: large;
+}
+
+#blog{
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+#period4{
+    margin-top: 1px;
+    margin-left: 2.5px;
+    font-size: large;
+}
+
+#contact{
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+#period5{
+    margin-top: 1px;
+    margin-left: 2.5px;
+    font-size: large;
+}
+
+
+#search-image{
+    display: flex;
+    border-radius: 50px;
+    height: 22px;
+    width: 22px;
+    margin-left: 250px;
+}
+
+#person-image{
+    display: flex;
+    border-radius: 50px;
+    height: 22px;
+    width: 22px;
+    margin-left: 25px;
+}
+
+.login{
+    display: flex;
+    background-color: white;
+    box-shadow: 3px 3px 3px 3px whitesmoke;
+    margin-top: 55px;
+    width: 700px;
+    height: 700px;
+    margin-left: 400px;
+}
+
+
+
+#remember{
+    margin-top: 30px;
+    margin-left: -200px;
+}
+
+
+#forgot{
+    margin-top: -17px;
+    margin-left: 200px;
+}
+
+#sent{
+    
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#label1{
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 50px;
+    margin-left: -200px;
+}
+#usernameoremail{
+    margin-top: 1px;
+    margin-left: -200px;
+   height: 50px;
+   width: 500px;
+}
+
+#label2{
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 50px;
+    margin-left: -200px;
+}
+#email{
+    margin-top: 1px;
+    margin-left: -200px;
+   height: 50px;
+   width: 500px;
+}
+
+
+#label3{
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 50px;
+    margin-left: -200px;
+}
+#password{
+    margin-top: 1px;
+    margin-left: -200px;
+   height: 50px;
+   width: 500px;
+}
+
+#signup{
+    display: block;
+    margin-top: 100px;
+    justify-self: center;
+    border-radius: 50px;
+    width: 250px;
+    height: 40px;
+    text-align: center;
+    background-color: green;
+    color: white;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+#question{
+    margin-right: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+#log_in{
+    margin-top: -34px;
+    margin-left: 165px;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+footer{
+    display: flex;
+    background-color: rgb(2, 15, 131);
+    height: 500px;
+    margin-top: 50px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#subscribe{
+    font-size: xx-large;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+
+#sent2{
+        margin-top: 100px;
+        margin-left: -450px;
+}
+
+
+#email2{
+    margin-top: 150px;
+    margin-left: -600px;
+    height: 52.5px;
+    width: 600px;
+    border-radius: 50px;
+}
+
+
+#subscribe2{
+    margin-top: 150px;
+    margin-left: -250px;
+    border-radius: 50px;
+    width: 250px;
+    height: 60px;
+    text-align: center;
+    background-color: rgb(252, 0, 0);
+    color: white;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
